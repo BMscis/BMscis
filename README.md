@@ -1,17 +1,23 @@
-Hi 👋 My name is Melvin Wafula
+---
+title: "Get to know me"
+date: "2022-05-12T22:37:25.509Z"
+slug: "profile"
+image: "image"
+---
+Melvin Wafula
 ==============================
 
 Full Stack Developer and Block Chain Developer
 ----------------------------------------------
 
-I started programming with Python, experimenting mostly with Aritificial Intelligence but my experience has expanded to touch Java for android development : I now prefer kotlin. I fell in love with JavaScript, which I have written most code on. I have done some research on frameworks, developed my own html components, but work mostly with the Svelte framework.
+I started programming with Python, experimenting mostly with Artificial Intelligence, but my experience has expanded to touch Java for android development : I now prefer Kotlin. I fell in love with JavaScript, which I have written most code on. Furthermore, I have done some research on frameworks, developed my own HTML components, but work mostly with the Svelte framework.
 
-* 🌍  I'm based in Kenya
-* ✉️  You can contact me at [melvinwafula@gmail.com](mailto:melvinwafula@gmail.com)
-* 🚀  I'm currently working on [NFT Auction with reach](http://github.com/BMscis/reach-tutorial)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on Web3 Daaps
-* ⚡  I took the red pill.
+* 🌍 I'm based in Kenya
+* ✉️ You can contact me at [melvinwafula@gmail.com](mailto:melvinwafula@gmail.com)
+* 🚀 I'm currently working on [NFT Auction with reach](http://github.com/BMscis/reach-tutorial)
+* 🧠 I'm learning Next.js
+* 🤝 I'm open to collaborating on Web3 Daaps
+* ⚡ I took the red pill.
 
 
 <a href="https://www.twitter.com/BMscis" target="_blank" rel="noreferrer"><img
@@ -52,6 +58,7 @@ src="https://img.shields.io/twitter/follow/BMscis?logo=twitter&style=for-the-bad
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/BMscis#0172" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/BMscis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://bmscis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/melvin-wakhungu-26a29259" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/melvinwafula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BMscis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
