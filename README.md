@@ -7,7 +7,7 @@ Full Stack Developer and Block Chain Developer
 If I were to summarize my approach to programming, I would liken it to mathematics; You can't do anything without addition and subtraction, but with addition and subtraction, you can recreate the mathematical universe. I have learnt if I stick to the fundamentals, then no new programming language will be alien, because they must all obey mathematical laws. If I were to summarize my approach to programming, I would liken it to mathematics: you can't do anything without addition and subtraction, but with addition and subtraction, you can recreate the mathematical universe. I have learnt that if I stick to the fundamentals, then no new programming language will be alien to me, because they must all obey mathematical laws. I am adaptable and eager to find new ways to implement old ideas. Even cryptocurrencies were envisioned in the twentieth century, but here we are in the second decade of the twenty-first century, and it is changing every industry it touches and, if we allow it, will soon change our lives for the better.
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [portfolio](http://persona-bmscis.vercel.app)
+* 🖥️  See my portfolio at [portfolio](https://persona-eosin.vercel.app/)
 * ✉️  You can contact me at [melvinwafula@gmail.com](mailto:melvinwafula@gmail.com)
 * 🚀  I'm currently working on [Jasiri Protocol](http://medium.com/@blog.jasiriprotocol.org/incentivized-testnet-participation-jasiri-web-extension-7f14cffece08)
 * 🧠  I'm learning Reach
@@ -67,5 +67,6 @@ src="https://img.shields.io/twitter/follow/BMscis?logo=twitter&style=for-the-bad
 <div width="100%" align="center"><a href="https://github.com/BMscis/Ascent" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BMscis&repo=Ascent&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/BMscis/reach-tutorial" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BMscis&repo=reach-tutorial&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
+
 
 <a href="https://www.buymeacoffee.com/bmscis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
